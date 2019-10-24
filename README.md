@@ -1,4 +1,4 @@
-# ClockAtmega
+# ClockAtmega - Relógio com ATMEGA
 
    PROJETO RELÓGIO COM ATMEGA 328P
    
